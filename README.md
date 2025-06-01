@@ -30,7 +30,13 @@ Classic game built using HTML, CSS, and JavaScript — includes a reset feature 
 ### 📦 [Portfolio Website](https://vinay-2004-coder.github.io)
 My personal portfolio made with HTML, CSS, and a little JavaScript to showcase my projects and resume.
 
-*(Update with your actual repos if these are just examples)*
+## 📅 100 Days of Code
+
+🎯 I'm currently doing the [100 Days of Code: Python Bootcamp](https://www.udemy.com/course/100-days-of-code/) by Angela Yu.
+
+- 🧠 Learning Python, automation, web dev, and more
+- 📘 Posting daily progress in my [100-days-of-code repo](https://github.com/vinay-2004-coder/100-days-of-code)
+- 💪 Committed to coding **every day** for 100 days!
 
 ---
 
