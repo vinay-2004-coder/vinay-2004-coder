@@ -42,7 +42,7 @@ A console-based **Python** program that simulates drink selection, coin input, a
 
 ---
 
-### ⏱️ [Pomodoro Timer](https://github.com/vinay-2004-coder/100-days-of-code/tree/main/day-28-pomodoro-gui)  
+### ⏱️ [Pomodoro Timer](https://github.com/vinay-2004-coder/Daily-code-practice/tree/aa191da0b2d59efd74d35f022018e6a93d6d1263/Pomodoro%20Timer)  
 A desktop productivity timer built with **Python and Tkinter**, following the Pomodoro Technique.  
 Features:
 - Custom work/break intervals  
